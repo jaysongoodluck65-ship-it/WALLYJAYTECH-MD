@@ -42,7 +42,7 @@ const settings = {
   botOwner: 'Wally Jay', 
   timezone: 'Africa/Lagos',
   prefix: '.',
-  ownerNumber: '2348144317152', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '2349065071148', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
